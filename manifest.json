@@ -1,0 +1,41 @@
+{
+  "status": "OSM_ONLY_RELEASE_CANDIDATE",
+  "source": "OpenStreetMap contributors / Geofabrik Greece",
+  "sourceUrl": "https://download.geofabrik.de/europe/greece.html",
+  "dataTimeUtc": "2026-11-23T21:21:17Z",
+  "replicationSequence": 4978,
+  "license": "ODbL-1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "https://www.openstreetmap.org/copyright",
+  "rows": 51887,
+  "supplementalClassificationRowsOmitted": 1,
+  "scopeNote": "Not the complete source offer for the old 51888-row runtime index. Align the future public runtime with this OSM-only snapshot or separately clear and offer the supplemented index.",
+  "graph": {
+    "file": "InAuction-POI-Greece-2026-11-23.tar.gz",
+    "tiles": 513,
+    "bytes": 602420759,
+    "sha256": "eb05a0887e69c8e93f2ba508ef02d3cf88007f6c72f02d0b0b11680451b58b7f"
+  },
+  "filteredPbf": {
+    "bytes": 343490745,
+    "sha256": "7cc4114518d24dd85b0cd976a9a734223975b76fce3f16fe574e5f989e16d675"
+  },
+  "files": {
+    "poi-index.geojsonl.gz": {
+      "bytes": 8569178,
+      "sha256": "15f26351eaa9a5fa9e37ed54c7fa094cb7947c8120afea7169052b1035fd8c2b"
+    },
+    "counts.json": {
+      "bytes": 394,
+      "sha256": "1754ac0dd7babbab1561aec43cddcc0f0bdad59d73ffafcc55950df7e2984fcc"
+    },
+    "ODbL-1.0.txt": {
+      "bytes": 25278,
+      "sha256": "607680718977f6f6c9607972afd98f208573f19251315ed1362a8589b51beaf5"
+    },
+    "REPRODUCTION.md": {
+      "bytes": 2479,
+      "sha256": "e508126a4fe116499fdcb69c8f7d1cf7fad3e6cead575df938304e33ea19037a"
+    }
+  }
+}
